@@ -1,9 +1,28 @@
-Hello, I’m is Felipe 🖐️💻
+<div style="display: inline_block">
+  
+  
+<br>
+ 
+Hello! I'm Felipe. Welcome to my profile🖐
 
+ 
+<br/>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-henrique-almeida-287b80190/)
+ <br/>
+--------------------------------------------------------------------
+![Felipe Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealmeidadev&show_icons=true&theme=onedark)
+--------------------------------------------------------------------
 
+Whow I'am?
+  
+👨‍🎓Graduado em Tecnologia da Informação<br>
+📊Analista de dados
+  
+--------------------------------------------------------------------
 
-Tecnologia que eu estudo e utilizo
-
-<div style="display: inline_block"><br>
+Skills:<br/>
   <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img aling="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</div>
