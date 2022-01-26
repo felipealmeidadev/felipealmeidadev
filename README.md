@@ -14,7 +14,7 @@ Whow I'am?
   
 👨‍🎓Graduado em Tecnologia da Informação<br>
 📊Analista de dados<br>
-💻Entusiasta por analise de dados.
+💻Entusiasta por análise de dados.
   
 --------------------------------------------------------------------
 
