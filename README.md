@@ -1,7 +1,10 @@
 <div style="display: inline_block">
   
 Hello! I'm Felipe. Welcome to my profile🖐
-  
+
+--------------------------------------------------------------------
+
+Aqui encontrará alguns projetos de análise de dados com Power BI e Python
 
 
 
