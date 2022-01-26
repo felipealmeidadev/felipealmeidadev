@@ -8,7 +8,6 @@ Aqui encontrará alguns projetos de análise de dados com Power BI e Python
 
 
 
-![Felipe Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealmeidadev&show_icons=true&theme=onedark)
 --------------------------------------------------------------------
 
 Whow I'am?
