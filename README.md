@@ -4,7 +4,7 @@ Hello! I'm Felipe. Welcome to my profile🖐
 
 --------------------------------------------------------------------
 
-Aqui encontrará alguns projetos de análise de dados com Power BI e Python
+Aqui encontrará alguns projetos em análise de dados com Power BI e Python
 
 
 
