@@ -24,6 +24,8 @@ Aqui encontrará alguns projetos em análise de dados com Power BI e Python
   <br/>
   🧮 Power BI
   <br/>
+  <img aling="center" alt="MySQL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <br/>
    <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <br/>
   <img aling="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
