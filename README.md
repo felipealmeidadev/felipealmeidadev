@@ -10,7 +10,7 @@ Aqui encontrará alguns projetos em análise de dados com Power BI e Python
 
 --------------------------------------------------------------------
 
-Whow I'am?
+**Whow I'am?**
   
 👨‍🎓Graduado em Tecnologia da Informação<br>
 📊Analista de dados<br>
@@ -18,7 +18,8 @@ Whow I'am?
   
 --------------------------------------------------------------------
 
-Hard Skills:<br/>
+**Hard Skills:**<br/>
+  
   <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <br/>
   🧮 Power BI
@@ -28,8 +29,8 @@ Hard Skills:<br/>
   <img aling="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 
  --------------------------------------------------------------------
-  📫 Como chegar até mim: 👇🏻
-   <br/>
+  📫 **Como chegar até mim:** 👇🏻<br/>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-henrique-almeida-287b80190/)
 
 </div>
